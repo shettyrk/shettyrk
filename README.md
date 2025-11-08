@@ -20,21 +20,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shettyrk&show_icons=true&theme=default&hide_border=false" alt="Ramakrishna's GitHub Stats" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shettyrk.shettyrk" alt="visitors" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shettyrk" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🧭 About Me  
 
 I’m a **Java backend developer** passionate about building scalable and efficient systems.  
@@ -55,15 +40,6 @@ Recently, I’ve been exploring **AWS**, **CI/CD pipelines**, and **DevOps autom
 **DevOps Tools:** Docker • Git • GitHub Actions • Jenkins (Learning)  
 **Cloud:** AWS (Cloud Practitioner track)  
 **Others:** Multithreading • ExecutorService • DTO Pattern • Caching • Batch Processing  
-
----
-
-## 📅 Currently Working On  
-
-- 🔄 Improving my **Spring Boot microservices** with async and multi-threading  
-- ⚙️ Automating schema management using **Liquibase**  
-- ☁️ Preparing for **AWS Cloud Practitioner Certification**  
-- 💡 Solving **2 DSA problems daily** to strengthen algorithmic thinking  
 
 ---
 
