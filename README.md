@@ -6,7 +6,7 @@
 - ☁️ Learning **AWS Cloud Practitioner** and exploring **Docker**, **Kubernetes**, and **DevOps practices**  
 - 🧠 Focused on mastering **System Design**, **DSA**, and **High-performance API Architecture**  
 - 💬 Ask me about: Java, Spring Boot, REST APIs, Docker, MySQL, Multithreading  
-- 📫 Reach me: [ramakrishna.shetty.dev@gmail.com](mailto:ramakrishna.shetty.dev@gmail.com)  
+- 📫 Reach me: [shettyrk29@gmail.com](mailto:shettyrk29@gmail.com)  
 - 🔗 Portfolio: [https://shettyrk.dev](https://shettyrk.dev) • LinkedIn: [linkedin.com/in/ramakrishna-shetty](https://linkedin.com/in/ramakrishna-shetty)  
 
 ---
@@ -42,7 +42,7 @@ Recently, I’ve been exploring **AWS**, **CI/CD pipelines**, and **DevOps autom
 
 ## 📫 Contact  
 
-- 📧 Email: [ramakrishna.shetty.dev@gmail.com](mailto:ramakrishna.shetty.dev@gmail.com)  
+- 📧 Email: [shettyrk29@gmail.com](mailto:shettyrk29@gmail.com)  
 - 🌐 Portfolio: [https://shettyrk.dev](https://shettyrk.dev)  
 - 💼 LinkedIn: [https://linkedin.com/in/ramakrishna-shetty](https://linkedin.com/in/ramakrishna-shetty)  
 - 📄 Resume: [https://drive.google.com/file/d/your-resume-link](https://drive.google.com/file/d/your-resume-link)  
