@@ -42,3 +42,40 @@ My core work includes designing REST APIs, implementing Spring Boot microservice
 
 I also work with **Dockerized deployments**, **Liquibase-based schema management**, and **ExecutorService** for parallel processing.  
 Recently, I’ve been exploring **AWS**, **CI/CD pipelines**, and **DevOps automation** to bridge the gap between code and deployment.  
+
+
+---
+
+
+## 🛠️ Skills & Tech Stack  
+
+**Backend:** Java • Spring Boot • Hibernate • REST APIs  
+**Database:** MySQL • Liquibase • JPA • SQL Optimization  
+**Frontend:** React.js • HTML • CSS • JavaScript  
+**DevOps Tools:** Docker • Git • GitHub Actions • Jenkins (Learning)  
+**Cloud:** AWS (Cloud Practitioner track)  
+**Others:** Multithreading • ExecutorService • DTO Pattern • Caching • Batch Processing  
+
+---
+
+## 📅 Currently Working On  
+
+- 🔄 Improving my **Spring Boot microservices** with async and multi-threading  
+- ⚙️ Automating schema management using **Liquibase**  
+- ☁️ Preparing for **AWS Cloud Practitioner Certification**  
+- 💡 Solving **2 DSA problems daily** to strengthen algorithmic thinking  
+
+---
+
+## 📫 Contact  
+
+- 📧 Email: [ramakrishna.shetty.dev@gmail.com](mailto:ramakrishna.shetty.dev@gmail.com)  
+- 🌐 Portfolio: [https://shettyrk.dev](https://shettyrk.dev)  
+- 💼 LinkedIn: [https://linkedin.com/in/ramakrishna-shetty](https://linkedin.com/in/ramakrishna-shetty)  
+- 📄 Resume: [https://drive.google.com/file/d/your-resume-link](https://drive.google.com/file/d/your-resume-link)  
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shettyrk/shettyrk/master/download.svg" alt="github contribution grid snake animation" />
+</div>
