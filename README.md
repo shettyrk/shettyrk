@@ -48,7 +48,3 @@ Recently, I’ve been exploring **AWS**, **CI/CD pipelines**, and **DevOps autom
 - 📄 Resume: [https://drive.google.com/file/d/your-resume-link](https://drive.google.com/file/d/your-resume-link)  
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shettyrk/shettyrk/master/download.svg" alt="github contribution grid snake animation" />
-</div>
