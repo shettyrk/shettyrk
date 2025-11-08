@@ -37,10 +37,7 @@ Recently, I’ve been exploring **AWS**, **CI/CD pipelines**, and **DevOps autom
 **Backend:** Java • Spring Boot • Hibernate • REST APIs  
 **Database:** MySQL • Liquibase • JPA • SQL Optimization  
 **Frontend:** React.js • HTML • CSS • JavaScript  
-**DevOps Tools:** Docker • Git • GitHub Actions • Jenkins (Learning)  
-**Cloud:** AWS (Cloud Practitioner track)  
-**Others:** Multithreading • ExecutorService • DTO Pattern • Caching • Batch Processing  
-
+**DevOps Tools:** Docker • Git • GitHub Actions • Jenkins (Learning)
 ---
 
 ## 📫 Contact  
