@@ -49,9 +49,7 @@ Recently, I’ve been exploring **AWS**, **CI/CD pipelines**, and **DevOps autom
 
 ---
 
-https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreat
-e_api_key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload&code_challenge=W89NyKFPN9QU5EXWXJ5-L8Ls6k8g3sc_Zj6rZjbL_7o&code_challenge_method=S256&state=63u
-pB5RrgVjEA2OYuwzoYDKaAURN-bkoine3TwL6HkE
+'01ZTuZln3susRhKo40xNQyvygIUUumJdNhnCrkBJif4MuzUY#63upB5RrgVjEA2OYuwzoYDKaAURN-bkoine3TwL6HkE'
 
 
 
