@@ -49,7 +49,5 @@ Recently, I’ve been exploring **AWS**, **CI/CD pipelines**, and **DevOps autom
 
 ---
 
-'01ZTuZln3susRhKo40xNQyvygIUUumJdNhnCrkBJif4MuzUY#63upB5RrgVjEA2OYuwzoYDKaAURN-bkoine3TwL6HkE'
-
 
 
