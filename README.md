@@ -1,53 +1,74 @@
-# 👋 Hi, I'm Ramakrishna Shetty  
+# Hi, I'm Ramakrishna Shetty
 
-**Associate Software Developer | Java Spring Boot | Cloud & DevOps Enthusiast**  
+**Backend Engineer · Java · Spring Boot · Microservices · Distributed Systems**
 
-- 💻 Currently working on **Spring Boot microservices**, **MySQL**, and **React.js**  
-- ☁️ Learning **AWS Cloud Practitioner** and exploring **Docker**, **Kubernetes**, and **DevOps practices**  
-- 🧠 Focused on mastering **System Design**, **DSA**, and **High-performance API Architecture**  
-- 💬 Ask me about: Java, Spring Boot, REST APIs, Docker, MySQL, Multithreading  
-- 📫 Reach me: [shettyrk29@gmail.com](mailto:shettyrk29@gmail.com)  
-- 🔗 Portfolio: [https://shettyrk.dev](https://shettyrk.dev) • LinkedIn: [linkedin.com/in/ramakrishna-shetty](https://linkedin.com/in/ramakrishna-shetty)  
+I build multi-tenant SaaS backends at [Sclera VDMS](https://www.linkedin.com/in/ramakrishna-shetty-a65787228/), where I lead a team of 5 engineers on a production Inspection Management System serving enterprise clients.
+
+Most of my work sits at the intersection of **data isolation, performance, and scale** — designing database-per-tenant architectures, hunting down slow queries, and making APIs fast enough that nobody notices them.
 
 ---
 
-## 🔗 Quick Links  
+## What I've Built
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://shettyrk.dev)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/your-resume-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ramakrishna-shetty)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shettyrk)
-
----
-
-## 🧭 About Me  
-
-I’m a **Java backend developer** passionate about building scalable and efficient systems.  
-My core work includes designing REST APIs, implementing Spring Boot microservices, handling image uploads, and integrating databases with complex relationships.  
-
-I also work with **Dockerized deployments**, **Liquibase-based schema management**, and **ExecutorService** for parallel processing.  
-Recently, I’ve been exploring **AWS**, **CI/CD pipelines**, and **DevOps automation** to bridge the gap between code and deployment.  
-
+- **Cut critical API response time from 20+ seconds to under 1 second** (~95% faster) by restructuring inefficient SQL, adding composite indexes, and introducing Redis caching on hot read paths
+- **Architected database-per-tenant multi-tenancy** with header-based tenant identification, dynamic datasource routing, and request-scoped tenant context — zero cross-tenant data leakage
+- **Designed and shipped 15+ production REST APIs** in Spring Boot for a flagship enterprise product
+- **Built event-driven workflows with RabbitMQ**, decoupling long-running operations from the request path
+- **Promoted to lead a 5-engineer backend team within 18 months** of joining as an entry-level developer
+- Work directly with **Fortune 500 clients across time zones** — requirement gathering through to solution design
 
 ---
 
+## Tech Stack
 
-## 🛠️ Skills & Tech Stack  
+**Languages** — Java 17 / 11 · SQL · JavaScript · Go
 
-**Backend:** Java • Spring Boot • Hibernate • REST APIs  
-**Database:** MySQL • Liquibase • JPA • SQL Optimization  
-**Frontend:** React.js • HTML • CSS • JavaScript  
-**DevOps Tools:** Docker • Git • GitHub Actions • Jenkins (Learning)
+**Backend** — Spring Boot · Spring Security · Spring Data JPA · Hibernate · Spring Cloud · REST APIs · Microservices
+
+**Architecture** — Multi-Tenancy (Database-per-Tenant) · Distributed Systems · Event-Driven Design · System Design (HLD & LLD) · SOLID · Design Patterns
+
+**Data** — MySQL · Redis · Liquibase · Query Optimization · Indexing · Transaction Management
+
+**Concurrency** — Multithreading · Thread Pools · ExecutorService · Async Processing
+
+**Messaging** — RabbitMQ · Kafka
+
+**Cloud & DevOps** — AWS (EC2, RDS, API Gateway, Lambda, IAM) · Docker · GitHub Actions · CI/CD · Maven · Linux
+
+**Testing** — JUnit · Mockito · Postman · Swagger/OpenAPI
+
 ---
 
-## 📫 Contact  
+## Featured Work
 
-- 📧 Email: [shettyrk29@gmail.com](mailto:shettyrk29@gmail.com)  
-- 🌐 Portfolio: [https://shettyrk.dev](https://shettyrk.dev)  
-- 💼 LinkedIn: [https://linkedin.com/in/ramakrishna-shetty](https://linkedin.com/in/ramakrishna-shetty)  
-- 📄 Resume: [https://drive.google.com/file/d/your-resume-link](https://drive.google.com/file/d/your-resume-link)  
+| Project | What it demonstrates |
+|---|---|
+| [**multitenancy-microservices**](https://github.com/shettyrk/multitenancy-microservices) | Database-per-tenant isolation with dynamic datasource routing |
+| [**KafkaFlow-Engine**](https://github.com/shettyrk/KafkaFlow-Engine) | Event streaming and message-driven pipelines |
+| [**code-review-agent**](https://github.com/shettyrk/code-review-agent) | Automated code review tooling in Java |
+| [**aws-repo**](https://github.com/shettyrk/aws-repo) | AWS service integrations and infrastructure |
+| [**chit-chat**](https://github.com/shettyrk/chit-chat) | Real-time chat — polyglot stack across JS, Go, and mobile |
+| [**go-crud**](https://github.com/shettyrk/go-crud) | CRUD service in Go |
 
 ---
 
+## Certifications
 
+- [**System Design (LLD + HLD) from Basics to Advanced**](https://ude.my/UC-0b7f5396-07b5-43e3-908e-c1aa3d984adb) — Udemy · 38.5 hours · 2026
+- [**Spring Boot Microservices and Spring Cloud: Build & Deploy**](https://ude.my/UC-ca904e05-b693-4d3e-adcc-c5d8da154c35) — Udemy · 26 hours · 2025
+- **AWS Certified Cloud Practitioner** — in progress
 
+---
+
+## Currently
+
+Going deeper on distributed systems design, Kafka-based event architectures, and Kubernetes.
+
+---
+
+## Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrishna-shetty-a65787228/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shettyrk29@gmail.com)
+
+📍 Mangalore, Karnataka, India
