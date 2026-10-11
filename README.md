@@ -72,8 +72,3 @@ Going deeper on distributed systems design, Kafka-based event architectures, and
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shettyrk29@gmail.com)
 
 📍 Mangalore, Karnataka, India
-
-
-
-
-https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload&code_challenge=9-09lsGOOcysW_LB4bCYlTjbMtsJPWV1wEjQ-7wcZ2E&code_challenge_method=S256&state=c47Wwr8RiDJ6bD60p14fitF57aOsw70xl9eUYmAV2NA
